@@ -36,9 +36,11 @@ img {
 .description {
   text-align: center;
   width: 260px;
+  padding-top: 10px;
 }
 
 h1 {
+  color: var(--dark-blue);
   font-size: 22px;
 }
 
@@ -50,6 +52,7 @@ p {
 .attribution {
   position: absolute;
   bottom: 0;
+  padding-block-end: 10px;
   width: 100%;
   font-size: 11px;
   text-align: center;
