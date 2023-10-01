@@ -1,6 +1,6 @@
 # Frontend Mentor - Order summary card solution
 
-Thank you for checking out my solution to the [QR code component by Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+Thank you for checking out my solution to the [QR code component by Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -13,15 +13,7 @@ Thank you for checking out my solution to the [QR code component by Frontend Men
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
-
-### The challenge
-
-Users should be able to:
-
-- See hover states for interactive elements
 
 ### Solution screenshots:
 
@@ -43,7 +35,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Mediaqueries
 
 ### Useful resources
 
